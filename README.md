@@ -1,7 +1,6 @@
 # H5 Preloader
 
 [![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
 [![David deps][david-image]][david-url]
 [![devDependencies Status][david-dev-image]][david-dev-url]
 [![npm download][download-image]][download-url]
@@ -10,8 +9,6 @@
 
 [npm-image]: https://img.shields.io/npm/v/h5-preloader.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/h5-preloader
-[travis-image]: https://img.shields.io/travis/cycdpo/h5-preloader.svg?style=flat-square
-[travis-url]: https://travis-ci.org/cycdpo/h5-preloader
 [david-image]: https://img.shields.io/david/cycdpo/h5-preloader.svg?style=flat-square
 [david-url]: https://david-dm.org/cycdpo/h5-preloader
 [david-dev-image]: https://david-dm.org/cycdpo/h5-preloader/dev-status.svg?style=flat-square
@@ -23,6 +20,11 @@
 [license-image]: https://img.shields.io/npm/l/h5-preloader.svg?style=flat-square
 
 ([Releases](https://github.com/cycdpo/h5-preloader/releases) | [Demo](https://cycdpo.github.io/h5-preloader/))
+
+## This package has been deprecated
+[new-url]: https://github.com/cycjimmy/h5-preloader
+
+**This package has been migrated to [@cycjimmy/h5-preloader][new-url] for scoped NPM package. Please switch to [@cycjimmy/h5-preloader][new-url] to stay up to date.**
 
 ## Install
 ```shell
